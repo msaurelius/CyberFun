@@ -1,0 +1,20 @@
+## 5-year-old hacks Xbox, now he’s a Microsoft ‘security researcher’
+A 5-year-old San Diego boy has been commended by Microsoft for his security skills after finding a vulnerability in the company’s Xbox games console.
+
+Kristoffer Von Hasssel’s parents noticed earlier this year that he was logged into his father’s Xbox Live account and playing games he was not supposed to.
+
+He hadn’t stolen his father’s password. Instead, he stumbled upon a very basic vulnerability that Microsoft is said to have now fixed.
+
+After typing an incorrect password, Kristoffer was taken to a password verification screen. There, he simply tapped the space bar a few times, hit “enter” and was let into his father’s account.
+
+The password allowed him to access not only the games but everything else on the Xbox, including a non-age-restricted YouTube account, his father, Robert Davies, said by telephone Friday.
+
+“I was like, ‘Wow, that’s so cool,'” Davies said.
+
+Despite some who insist that Kristoffer must have had help, Davies said his son indeed accessed the Xbox account on his own.
+
+Perhaps it was in his genes: Davies is a security engineer at the San Diego offices of ServiceNow, an enterprise IT cloud services company.
+
+Davies reported the bug to Microsoft, which fixed it right away.
+
+Resource: https://www.computerworld.com/article/1516941/5-year-old-hacks-xbox-now-he-s-a-microsoft-security-researcher.html
